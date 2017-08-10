@@ -1,0 +1,66 @@
+{
+  "response": {
+    "flights": [
+      {
+        "act_time": "4:10 PM",
+        "base_airline_name": "Southwest Airlines",
+        "base_flight": "WN1211",
+        "est_time": "4:10 PM",
+        "flight_type": "A",
+        "gate": 24,
+        "remark": "On Time",
+        "sched_time": "4:10 PM",
+        "terminal_id": 1,
+        "visited_cities": "SAN"
+      },
+      {
+        "act_time": "11:18 PM",
+        "base_airline_name": "Delta",
+        "base_flight": "DL544",
+        "est_time": "11:18 PM",
+        "flight_type": "A",
+        "gate": 44,
+        "sched_time": "11:18 PM",
+        "sub_flights": {
+          "sub_airline_name": "WestJet",
+          "sub_flight": "WS7462"
+        },
+        "terminal_id": 1,
+        "visited_cities": "SEA"
+      },
+      {
+        "act_time": "3:31 PM",
+        "base_airline_name": "Delta",
+        "base_flight": "DL2766",
+        "est_time": "3:31 PM",
+        "flight_type": "A",
+        "gate": 48,
+        "sched_time": "3:33 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "KLM Royal Dutch Airlines",
+            "sub_flight": "KL5256"
+          },
+          {
+            "sub_airline_name": "China Eastern Airlines",
+            "sub_flight": "MU8827"
+          },
+          {
+            "sub_airline_name": "Virgin Australia",
+            "sub_flight": "VA6642"
+          },
+          {
+            "sub_airline_name": "Virgin Atlantic",
+            "sub_flight": "VS4093"
+          },
+          {
+            "sub_airline_name": "WestJet",
+            "sub_flight": "WS6974"
+          }
+        ],
+        "terminal_id": 1,
+        "visited_cities": "LAX"
+      }
+      ]
+  }
+}

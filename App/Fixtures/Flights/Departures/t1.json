@@ -1,0 +1,102 @@
+{
+  "response": {
+    "flights": [
+      {
+        "act_time": "9:25 PM",
+        "base_airline_name": "Delta",
+        "base_flight": "DL1155",
+        "est_time": "9:25 PM",
+        "flight_type": "D",
+        "gate": 42,
+        "sched_time": "9:25 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Alitalia",
+            "sub_flight": "AZ3439"
+          },
+          {
+            "sub_airline_name": "Virgin Atlantic",
+            "sub_flight": "VS4848"
+          }
+        ],
+        "terminal_id": 1,
+        "visited_cities": "JFK"
+      },
+      {
+        "act_time": "8:55 PM",
+        "base_airline_name": "Delta",
+        "base_flight": "DL2818",
+        "est_time": "8:55 PM",
+        "flight_type": "D",
+        "gate": 46,
+        "sched_time": "8:55 PM",
+        "sub_flights": {
+          "sub_airline_name": "WestJet",
+          "sub_flight": "WS7673"
+        },
+        "terminal_id": 1,
+        "visited_cities": "BOS"
+      },
+      {
+        "act_time": "5:30 PM",
+        "base_airline_name": "Southwest Airlines",
+        "base_flight": "WN4142",
+        "est_time": "5:30 PM",
+        "flight_type": "D",
+        "gate": 25,
+        "remark": "On Time",
+        "sched_time": "5:30 PM",
+        "terminal_id": 1,
+        "visited_cities": "SAN"
+      },
+      {
+        "act_time": "10:20 PM",
+        "base_airline_name": "American Airlines",
+        "base_flight": "AA898",
+        "est_time": "10:20 PM",
+        "flight_type": "D",
+        "gate": "45B",
+        "sched_time": "10:20 PM",
+        "sub_flights": {
+          "sub_airline_name": "Fiji Airways",
+          "sub_flight": "FJ5056"
+        },
+        "terminal_id": 1,
+        "visited_cities": "CLT"
+      },
+      {
+        "act_time": "3:35 PM",
+        "base_airline_name": "Southwest Airlines",
+        "base_flight": "WN1517",
+        "est_time": "3:35 PM",
+        "flight_type": "D",
+        "gate": 25,
+        "remark": "On Time",
+        "sched_time": "2:55 PM",
+        "terminal_id": 1,
+        "visited_cities": "LAX"
+      },
+      {
+        "act_time": "4:55 PM",
+        "base_airline_name": "Delta",
+        "base_flight": "DL2956",
+        "est_time": "4:55 PM",
+        "flight_type": "D",
+        "gate": 42,
+        "sched_time": "4:55 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "KLM Royal Dutch Airlines",
+            "sub_flight": "KL7738"
+          },
+          {
+            "sub_airline_name": "Virgin Atlantic",
+            "sub_flight": "VS4457"
+          }
+        ],
+        "terminal_id": 1,
+        "visited_cities": "SLC"
+      }
+    ]
+  }
+}

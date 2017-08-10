@@ -1,0 +1,86 @@
+{
+  "response": {
+    "flights": [
+      {
+        "act_time": "6:33 PM",
+        "base_airline_name": "JetBlue",
+        "base_flight": "B61635",
+        "est_time": "6:33 PM",
+        "flight_type": "D",
+        "sched_time": "6:02 PM",
+        "sub_flights": {
+          "sub_airline_name": "Emirates",
+          "sub_flight": "EK6047"
+        },
+        "terminal_id": 4,
+        "visited_cities": "LGB"
+      },
+      {
+        "act_time": "11:25 PM",
+        "base_airline_name": "Qantas",
+        "base_flight": "QF74",
+        "est_time": "11:25 PM",
+        "flight_type": "D",
+        "sched_time": "11:25 PM",
+        "sub_flights": {
+          "sub_airline_name": "American Airlines",
+          "sub_flight": "AA7396"
+        },
+        "terminal_id": 4,
+        "visited_cities": "SYD"
+      },
+      {
+        "act_time": "7:09 PM",
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA1665",
+        "est_time": "7:09 PM",
+        "flight_type": "D",
+        "gate": "G92",
+        "sched_time": "7:09 PM",
+        "terminal_id": 4,
+        "visited_cities": "STL"
+      },
+      {
+        "act_time": "4:00 PM",
+        "base_airline_name": "WestJet",
+        "base_flight": "WS1775",
+        "est_time": "4:00 PM",
+        "flight_type": "D",
+        "gate": "G92",
+        "sched_time": "4:00 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "AeroMexico",
+            "sub_flight": "AM7287"
+          },
+          {
+            "sub_airline_name": "Qantas",
+            "sub_flight": "QF3377"
+          }
+        ],
+        "terminal_id": 4,
+        "visited_cities": "YVR"
+      },
+      {
+        "act_time": "8:00 PM",
+        "base_airline_name": "Air Berlin",
+        "base_flight": "AB7393",
+        "est_time": "8:00 PM",
+        "flight_type": "D",
+        "sched_time": "8:00 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Etihad Airways",
+            "sub_flight": "EY1607"
+          },
+          {
+            "sub_airline_name": "Air Serbia",
+            "sub_flight": "JU8513"
+          }
+        ],
+        "terminal_id": 4,
+        "visited_cities": "DUS"
+      }
+    ]
+  }
+}

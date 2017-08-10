@@ -1,0 +1,82 @@
+{
+  "response": {
+    "flights": [
+      {
+        "act_time": "9:15 PM",
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA5329",
+        "est_time": "9:15 PM",
+        "flight_type": "D",
+        "gate": "71B",
+        "sched_time": "8:00 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Air Canada",
+            "sub_flight": "AC4093"
+          },
+          {
+            "sub_airline_name": "Copa Airlines",
+            "sub_flight": "CM2333"
+          },
+          {
+            "sub_airline_name": "Lufthansa",
+            "sub_flight": "LH9230"
+          }
+        ],
+        "terminal_id": 3,
+        "visited_cities": "SLC"
+      },
+      {
+        "act_time": "12:01 AM",
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA1197",
+        "est_time": "12:01 AM",
+        "flight_type": "D",
+        "gate": 61,
+        "sched_time": "12:01 AM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Copa Airlines",
+            "sub_flight": "CM2374"
+          },
+          {
+            "sub_airline_name": "Air New Zealand",
+            "sub_flight": "NZ9190"
+          }
+        ],
+        "terminal_id": 3,
+        "visited_cities": "IAH"
+      },
+      {
+        "act_time": "10:40 PM",
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA5523",
+        "est_time": "10:40 PM",
+        "flight_type": "D",
+        "gate": "71B",
+        "sched_time": "10:40 PM",
+        "sub_flights": {
+          "sub_airline_name": "Copa Airlines",
+          "sub_flight": "CM2464"
+        },
+        "terminal_id": 3,
+        "visited_cities": "ACV"
+      },
+      {
+        "act_time": "5:15 PM",
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA441",
+        "est_time": "5:15 PM",
+        "flight_type": "D",
+        "gate": 88,
+        "sched_time": "5:15 PM",
+        "sub_flights": {
+          "sub_airline_name": "Air New Zealand",
+          "sub_flight": "NZ9113"
+        },
+        "terminal_id": 3,
+        "visited_cities": "EWR"
+      }
+    ]
+  }
+}

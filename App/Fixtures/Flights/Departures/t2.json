@@ -1,0 +1,117 @@
+{
+  "response": {
+    "flights": [
+      {
+        "act_time": "6:40 PM",
+        "base_airline_name": "Virgin America",
+        "base_flight": "VX938",
+        "est_time": "6:40 PM",
+        "flight_type": "D",
+        "gate": "51A",
+        "sched_time": "6:40 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Alaska Airlines",
+            "sub_flight": "AS1938"
+          },
+          {
+            "sub_airline_name": "China Southern Airlines",
+            "sub_flight": "CZ1926"
+          },
+          {
+            "sub_airline_name": "Singapore Airlines",
+            "sub_flight": "SQ1394"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "LAX"
+      },
+      {
+        "act_time": "4:10 PM",
+        "base_airline_name": "Virgin America",
+        "base_flight": "VX210",
+        "est_time": "4:10 PM",
+        "flight_type": "D",
+        "gate": "54A",
+        "sched_time": "4:10 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Alaska Airlines",
+            "sub_flight": "AS1210"
+          },
+          {
+            "sub_airline_name": "China Southern Airlines",
+            "sub_flight": "CZ1972"
+          },
+          {
+            "sub_airline_name": "Singapore Airlines",
+            "sub_flight": "SQ1358"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "ORD"
+      },
+      {
+        "act_time": "9:30 PM",
+        "base_airline_name": "Virgin America",
+        "base_flight": "VX936",
+        "est_time": "9:30 PM",
+        "flight_type": "D",
+        "sched_time": "5:40 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Alaska Airlines",
+            "sub_flight": "AS1936"
+          },
+          {
+            "sub_airline_name": "China Airlines",
+            "sub_flight": "CI9676"
+          },
+          {
+            "sub_airline_name": "China Southern Airlines",
+            "sub_flight": "CZ1868"
+          },
+          {
+            "sub_airline_name": "Singapore Airlines",
+            "sub_flight": "SQ1341"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "LAX"
+      },
+      {
+        "act_time": "4:25 PM",
+        "base_airline_name": "Alaska Airlines",
+        "base_flight": "AS315",
+        "est_time": "4:25 PM",
+        "flight_type": "D",
+        "gate": "50A",
+        "sched_time": "4:25 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "American Airlines",
+            "sub_flight": "AA6795"
+          },
+          {
+            "sub_airline_name": "AeroMexico",
+            "sub_flight": "AM8399"
+          },
+          {
+            "sub_airline_name": "Cathay Pacific",
+            "sub_flight": "CX7914"
+          },
+          {
+            "sub_airline_name": "Emirates",
+            "sub_flight": "EK3246"
+          },
+          {
+            "sub_airline_name": "Japan Airlines",
+            "sub_flight": "JL5429"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "SEA"
+      }
+    ]
+  }
+}

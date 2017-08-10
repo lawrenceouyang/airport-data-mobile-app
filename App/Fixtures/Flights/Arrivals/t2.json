@@ -1,0 +1,101 @@
+{
+  "response": {
+    "flights": [
+      {
+        "act_time": "4:11 PM",
+        "baggage_claim": 9,
+        "base_airline_name": "Alaska Airlines",
+        "base_flight": "AS316",
+        "est_time": "4:11 PM",
+        "flight_type": "A",
+        "gate": "50B",
+        "sched_time": "4:07 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "American Airlines",
+            "sub_flight": "AA6868"
+          },
+          {
+            "sub_airline_name": "Korean Air",
+            "sub_flight": "KE6115"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "SEA"
+      },
+      {
+        "act_time": "5:03 PM",
+        "baggage_claim": 2,
+        "base_airline_name": "American Airlines",
+        "base_flight": "AA2639",
+        "est_time": "5:03 PM",
+        "flight_type": "A",
+        "gate": "58A",
+        "remark": "Cancelled",
+        "sched_time": "5:03 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "British Airways",
+            "sub_flight": "BA4341"
+          },
+          {
+            "sub_airline_name": "Gulf Air",
+            "sub_flight": "GF4397"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "ORD"
+      },
+      {
+        "act_time": "6:30 PM",
+        "baggage_claim": 2,
+        "base_airline_name": "American Airlines",
+        "base_flight": "AA6018",
+        "est_time": "6:30 PM",
+        "flight_type": "A",
+        "gate": "58B",
+        "sched_time": "6:30 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "British Airways",
+            "sub_flight": "BA5482"
+          },
+          {
+            "sub_airline_name": "Etihad Airways",
+            "sub_flight": "EY3346"
+          },
+          {
+            "sub_airline_name": "Fiji Airways",
+            "sub_flight": "FJ5066"
+          },
+          {
+            "sub_airline_name": "Gulf Air",
+            "sub_flight": "GF4262"
+          },
+          {
+            "sub_airline_name": "LAN Airlines",
+            "sub_flight": "LA6890"
+          },
+          {
+            "sub_airline_name": "Qantas",
+            "sub_flight": "QF3232"
+          },
+          {
+            "sub_airline_name": "Qantas",
+            "sub_flight": "QF4741"
+          },
+          {
+            "sub_airline_name": "Air Tahiti Nui",
+            "sub_flight": "TN1125"
+          },
+          {
+            "sub_airline_name": "Air Tahiti Nui",
+            "sub_flight": "TN1126"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "LAX"
+      }
+    ]
+  }
+}

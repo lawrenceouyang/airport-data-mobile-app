@@ -1,0 +1,655 @@
+{
+  "response": {
+    "flights": [
+      {
+        "act_time": "4:10 PM",
+        "base_airline_name": "Southwest Airlines",
+        "base_flight": "WN1211",
+        "est_time": "4:10 PM",
+        "flight_type": "A",
+        "gate": 24,
+        "remark": "On Time",
+        "sched_time": "4:10 PM",
+        "terminal_id": 1,
+        "visited_cities": "SAN"
+      },
+      {
+        "act_time": "11:18 PM",
+        "base_airline_name": "Delta",
+        "base_flight": "DL544",
+        "est_time": "11:18 PM",
+        "flight_type": "A",
+        "gate": 44,
+        "sched_time": "11:18 PM",
+        "sub_flights": {
+          "sub_airline_name": "WestJet",
+          "sub_flight": "WS7462"
+        },
+        "terminal_id": 1,
+        "visited_cities": "SEA"
+      },
+      {
+        "act_time": "3:31 PM",
+        "base_airline_name": "Delta",
+        "base_flight": "DL2766",
+        "est_time": "3:31 PM",
+        "flight_type": "A",
+        "gate": 48,
+        "sched_time": "3:33 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "KLM Royal Dutch Airlines",
+            "sub_flight": "KL5256"
+          },
+          {
+            "sub_airline_name": "China Eastern Airlines",
+            "sub_flight": "MU8827"
+          },
+          {
+            "sub_airline_name": "Virgin Australia",
+            "sub_flight": "VA6642"
+          },
+          {
+            "sub_airline_name": "Virgin Atlantic",
+            "sub_flight": "VS4093"
+          },
+          {
+            "sub_airline_name": "WestJet",
+            "sub_flight": "WS6974"
+          }
+        ],
+        "terminal_id": 1,
+        "visited_cities": "LAX"
+      },
+      {
+        "act_time": "4:11 PM",
+        "baggage_claim": 9,
+        "base_airline_name": "Alaska Airlines",
+        "base_flight": "AS316",
+        "est_time": "4:11 PM",
+        "flight_type": "A",
+        "gate": "50B",
+        "sched_time": "4:07 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "American Airlines",
+            "sub_flight": "AA6868"
+          },
+          {
+            "sub_airline_name": "Korean Air",
+            "sub_flight": "KE6115"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "SEA"
+      },
+      {
+        "act_time": "5:03 PM",
+        "baggage_claim": 2,
+        "base_airline_name": "American Airlines",
+        "base_flight": "AA2639",
+        "est_time": "5:03 PM",
+        "flight_type": "A",
+        "gate": "58A",
+        "remark": "Cancelled",
+        "sched_time": "5:03 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "British Airways",
+            "sub_flight": "BA4341"
+          },
+          {
+            "sub_airline_name": "Gulf Air",
+            "sub_flight": "GF4397"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "ORD"
+      },
+      {
+        "act_time": "6:30 PM",
+        "baggage_claim": 2,
+        "base_airline_name": "American Airlines",
+        "base_flight": "AA6018",
+        "est_time": "6:30 PM",
+        "flight_type": "A",
+        "gate": "58B",
+        "sched_time": "6:30 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "British Airways",
+            "sub_flight": "BA5482"
+          },
+          {
+            "sub_airline_name": "Etihad Airways",
+            "sub_flight": "EY3346"
+          },
+          {
+            "sub_airline_name": "Fiji Airways",
+            "sub_flight": "FJ5066"
+          },
+          {
+            "sub_airline_name": "Gulf Air",
+            "sub_flight": "GF4262"
+          },
+          {
+            "sub_airline_name": "LAN Airlines",
+            "sub_flight": "LA6890"
+          },
+          {
+            "sub_airline_name": "Qantas",
+            "sub_flight": "QF3232"
+          },
+          {
+            "sub_airline_name": "Qantas",
+            "sub_flight": "QF4741"
+          },
+          {
+            "sub_airline_name": "Air Tahiti Nui",
+            "sub_flight": "TN1125"
+          },
+          {
+            "sub_airline_name": "Air Tahiti Nui",
+            "sub_flight": "TN1126"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "LAX"
+      },
+      {
+        "act_time": "9:26 PM",
+        "baggage_claim": 2,
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA1217",
+        "est_time": "9:26 PM",
+        "flight_type": "A",
+        "gate": 63,
+        "sched_time": "9:26 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Avianca",
+            "sub_flight": "AV2125"
+          },
+          {
+            "sub_airline_name": "Copa Airlines",
+            "sub_flight": "CM2414"
+          },
+          {
+            "sub_airline_name": "Air New Zealand",
+            "sub_flight": "NZ9357"
+          }
+        ],
+        "terminal_id": 3,
+        "visited_cities": "PDX"
+      },
+      {
+        "act_time": "8:30 PM",
+        "baggage_claim": 4,
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA5811",
+        "est_time": "8:30 PM",
+        "flight_type": "A",
+        "gate": "84B",
+        "sched_time": "8:30 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Avianca",
+            "sub_flight": "AV2267"
+          },
+          {
+            "sub_airline_name": "Copa Airlines",
+            "sub_flight": "CM2422"
+          }
+        ],
+        "terminal_id": 3,
+        "visited_cities": "MFR"
+      },
+      {
+        "act_time": "6:14 PM",
+        "baggage_claim": 4,
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA5395",
+        "est_time": "6:14 PM",
+        "flight_type": "A",
+        "gate": "84B",
+        "sched_time": "6:14 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Air Canada",
+            "sub_flight": "AC4339"
+          },
+          {
+            "sub_airline_name": "Avianca",
+            "sub_flight": "AV2035"
+          },
+          {
+            "sub_airline_name": "Copa Airlines",
+            "sub_flight": "CM2445"
+          },
+          {
+            "sub_airline_name": "Lufthansa",
+            "sub_flight": "LH9047"
+          }
+        ],
+        "terminal_id": 3,
+        "visited_cities": "FAT"
+      },
+      {
+        "act_time": "6:19 PM",
+        "baggage_claim": 7,
+        "base_airline_name": "Air France",
+        "base_flight": "AF82",
+        "est_time": "6:19 PM",
+        "flight_type": "A",
+        "sched_time": "6:00 PM",
+        "sub_flights": {
+          "sub_airline_name": "Delta",
+          "sub_flight": "DL8403"
+        },
+        "terminal_id": 4,
+        "visited_cities": "CDG"
+      },
+      {
+        "act_time": "3:47 PM",
+        "baggage_claim": 12,
+        "base_airline_name": "JetBlue",
+        "base_flight": "B6736",
+        "est_time": "3:47 PM",
+        "flight_type": "A",
+        "gate": "A12",
+        "sched_time": "3:01 PM",
+        "sub_flights": {
+          "sub_airline_name": "Emirates",
+          "sub_flight": "EK6048"
+        },
+        "terminal_id": 4,
+        "visited_cities": "LGB"
+      },
+      {
+        "act_time": "8:32 PM",
+        "baggage_claim": 4,
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA1118",
+        "est_time": "8:32 PM",
+        "flight_type": "A",
+        "gate": "G92",
+        "sched_time": "8:55 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Air China",
+            "sub_flight": "CA7324"
+          },
+          {
+            "sub_airline_name": "Air New Zealand",
+            "sub_flight": "NZ9292"
+          }
+        ],
+        "terminal_id": 4,
+        "visited_cities": "CUN"
+      },
+      {
+        "act_time": "9:25 PM",
+        "base_airline_name": "Delta",
+        "base_flight": "DL1155",
+        "est_time": "9:25 PM",
+        "flight_type": "D",
+        "gate": 42,
+        "sched_time": "9:25 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Alitalia",
+            "sub_flight": "AZ3439"
+          },
+          {
+            "sub_airline_name": "Virgin Atlantic",
+            "sub_flight": "VS4848"
+          }
+        ],
+        "terminal_id": 1,
+        "visited_cities": "JFK"
+      },
+      {
+        "act_time": "8:55 PM",
+        "base_airline_name": "Delta",
+        "base_flight": "DL2818",
+        "est_time": "8:55 PM",
+        "flight_type": "D",
+        "gate": 46,
+        "sched_time": "8:55 PM",
+        "sub_flights": {
+          "sub_airline_name": "WestJet",
+          "sub_flight": "WS7673"
+        },
+        "terminal_id": 1,
+        "visited_cities": "BOS"
+      },
+      {
+        "act_time": "5:30 PM",
+        "base_airline_name": "Southwest Airlines",
+        "base_flight": "WN4142",
+        "est_time": "5:30 PM",
+        "flight_type": "D",
+        "gate": 25,
+        "remark": "On Time",
+        "sched_time": "5:30 PM",
+        "terminal_id": 1,
+        "visited_cities": "SAN"
+      },
+      {
+        "act_time": "10:20 PM",
+        "base_airline_name": "American Airlines",
+        "base_flight": "AA898",
+        "est_time": "10:20 PM",
+        "flight_type": "D",
+        "gate": "45B",
+        "sched_time": "10:20 PM",
+        "sub_flights": {
+          "sub_airline_name": "Fiji Airways",
+          "sub_flight": "FJ5056"
+        },
+        "terminal_id": 1,
+        "visited_cities": "CLT"
+      },
+      {
+        "act_time": "3:35 PM",
+        "base_airline_name": "Southwest Airlines",
+        "base_flight": "WN1517",
+        "est_time": "3:35 PM",
+        "flight_type": "D",
+        "gate": 25,
+        "remark": "On Time",
+        "sched_time": "2:55 PM",
+        "terminal_id": 1,
+        "visited_cities": "LAX"
+      },
+      {
+        "act_time": "4:55 PM",
+        "base_airline_name": "Delta",
+        "base_flight": "DL2956",
+        "est_time": "4:55 PM",
+        "flight_type": "D",
+        "gate": 42,
+        "sched_time": "4:55 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "KLM Royal Dutch Airlines",
+            "sub_flight": "KL7738"
+          },
+          {
+            "sub_airline_name": "Virgin Atlantic",
+            "sub_flight": "VS4457"
+          }
+        ],
+        "terminal_id": 1,
+        "visited_cities": "SLC"
+      },
+      {
+        "act_time": "6:40 PM",
+        "base_airline_name": "Virgin America",
+        "base_flight": "VX938",
+        "est_time": "6:40 PM",
+        "flight_type": "D",
+        "gate": "51A",
+        "sched_time": "6:40 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Alaska Airlines",
+            "sub_flight": "AS1938"
+          },
+          {
+            "sub_airline_name": "China Southern Airlines",
+            "sub_flight": "CZ1926"
+          },
+          {
+            "sub_airline_name": "Singapore Airlines",
+            "sub_flight": "SQ1394"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "LAX"
+      },
+      {
+        "act_time": "4:10 PM",
+        "base_airline_name": "Virgin America",
+        "base_flight": "VX210",
+        "est_time": "4:10 PM",
+        "flight_type": "D",
+        "gate": "54A",
+        "sched_time": "4:10 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Alaska Airlines",
+            "sub_flight": "AS1210"
+          },
+          {
+            "sub_airline_name": "China Southern Airlines",
+            "sub_flight": "CZ1972"
+          },
+          {
+            "sub_airline_name": "Singapore Airlines",
+            "sub_flight": "SQ1358"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "ORD"
+      },
+      {
+        "act_time": "9:30 PM",
+        "base_airline_name": "Virgin America",
+        "base_flight": "VX936",
+        "est_time": "9:30 PM",
+        "flight_type": "D",
+        "sched_time": "5:40 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Alaska Airlines",
+            "sub_flight": "AS1936"
+          },
+          {
+            "sub_airline_name": "China Airlines",
+            "sub_flight": "CI9676"
+          },
+          {
+            "sub_airline_name": "China Southern Airlines",
+            "sub_flight": "CZ1868"
+          },
+          {
+            "sub_airline_name": "Singapore Airlines",
+            "sub_flight": "SQ1341"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "LAX"
+      },
+      {
+        "act_time": "4:25 PM",
+        "base_airline_name": "Alaska Airlines",
+        "base_flight": "AS315",
+        "est_time": "4:25 PM",
+        "flight_type": "D",
+        "gate": "50A",
+        "sched_time": "4:25 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "American Airlines",
+            "sub_flight": "AA6795"
+          },
+          {
+            "sub_airline_name": "AeroMexico",
+            "sub_flight": "AM8399"
+          },
+          {
+            "sub_airline_name": "Cathay Pacific",
+            "sub_flight": "CX7914"
+          },
+          {
+            "sub_airline_name": "Emirates",
+            "sub_flight": "EK3246"
+          },
+          {
+            "sub_airline_name": "Japan Airlines",
+            "sub_flight": "JL5429"
+          }
+        ],
+        "terminal_id": 2,
+        "visited_cities": "SEA"
+      },
+      {
+        "act_time": "9:15 PM",
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA5329",
+        "est_time": "9:15 PM",
+        "flight_type": "D",
+        "gate": "71B",
+        "sched_time": "8:00 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Air Canada",
+            "sub_flight": "AC4093"
+          },
+          {
+            "sub_airline_name": "Copa Airlines",
+            "sub_flight": "CM2333"
+          },
+          {
+            "sub_airline_name": "Lufthansa",
+            "sub_flight": "LH9230"
+          }
+        ],
+        "terminal_id": 3,
+        "visited_cities": "SLC"
+      },
+      {
+        "act_time": "12:01 AM",
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA1197",
+        "est_time": "12:01 AM",
+        "flight_type": "D",
+        "gate": 61,
+        "sched_time": "12:01 AM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Copa Airlines",
+            "sub_flight": "CM2374"
+          },
+          {
+            "sub_airline_name": "Air New Zealand",
+            "sub_flight": "NZ9190"
+          }
+        ],
+        "terminal_id": 3,
+        "visited_cities": "IAH"
+      },
+      {
+        "act_time": "10:40 PM",
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA5523",
+        "est_time": "10:40 PM",
+        "flight_type": "D",
+        "gate": "71B",
+        "sched_time": "10:40 PM",
+        "sub_flights": {
+          "sub_airline_name": "Copa Airlines",
+          "sub_flight": "CM2464"
+        },
+        "terminal_id": 3,
+        "visited_cities": "ACV"
+      },
+      {
+        "act_time": "5:15 PM",
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA441",
+        "est_time": "5:15 PM",
+        "flight_type": "D",
+        "gate": 88,
+        "sched_time": "5:15 PM",
+        "sub_flights": {
+          "sub_airline_name": "Air New Zealand",
+          "sub_flight": "NZ9113"
+        },
+        "terminal_id": 3,
+        "visited_cities": "EWR"
+      },
+      {
+        "act_time": "6:33 PM",
+        "base_airline_name": "JetBlue",
+        "base_flight": "B61635",
+        "est_time": "6:33 PM",
+        "flight_type": "D",
+        "sched_time": "6:02 PM",
+        "sub_flights": {
+          "sub_airline_name": "Emirates",
+          "sub_flight": "EK6047"
+        },
+        "terminal_id": 4,
+        "visited_cities": "LGB"
+      },
+      {
+        "act_time": "11:25 PM",
+        "base_airline_name": "Qantas",
+        "base_flight": "QF74",
+        "est_time": "11:25 PM",
+        "flight_type": "D",
+        "sched_time": "11:25 PM",
+        "sub_flights": {
+          "sub_airline_name": "American Airlines",
+          "sub_flight": "AA7396"
+        },
+        "terminal_id": 4,
+        "visited_cities": "SYD"
+      },
+      {
+        "act_time": "7:09 PM",
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA1665",
+        "est_time": "7:09 PM",
+        "flight_type": "D",
+        "gate": "G92",
+        "sched_time": "7:09 PM",
+        "terminal_id": 4,
+        "visited_cities": "STL"
+      },
+      {
+        "act_time": "4:00 PM",
+        "base_airline_name": "WestJet",
+        "base_flight": "WS1775",
+        "est_time": "4:00 PM",
+        "flight_type": "D",
+        "gate": "G92",
+        "sched_time": "4:00 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "AeroMexico",
+            "sub_flight": "AM7287"
+          },
+          {
+            "sub_airline_name": "Qantas",
+            "sub_flight": "QF3377"
+          }
+        ],
+        "terminal_id": 4,
+        "visited_cities": "YVR"
+      },
+      {
+        "act_time": "8:00 PM",
+        "base_airline_name": "Air Berlin",
+        "base_flight": "AB7393",
+        "est_time": "8:00 PM",
+        "flight_type": "D",
+        "sched_time": "8:00 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Etihad Airways",
+            "sub_flight": "EY1607"
+          },
+          {
+            "sub_airline_name": "Air Serbia",
+            "sub_flight": "JU8513"
+          }
+        ],
+        "terminal_id": 4,
+        "visited_cities": "DUS"
+      }
+    ]
+  }
+}

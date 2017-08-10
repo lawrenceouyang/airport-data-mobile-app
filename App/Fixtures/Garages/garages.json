@@ -1,0 +1,28 @@
+{
+  "garages": [
+    {
+      "garage_uuid": "7e65be9a-e82e-43fd-a981-c883045bfb1d",
+      "garage_id": 123,
+      "garage_name": "International Parking A",
+      "garage_type": "public",
+      "garage_type_desc": "Public Parking and Employee Parking",
+      "updated_at": "2017-06-13T14:53:47.639-0700"
+    },
+    {
+      "garage_uuid": "15736d64-4d2e-4be8-b791-b508682c5a2c",
+      "garage_id": 456,
+      "garage_name": "Long Term Lot D",
+      "garage_type": "employee",
+      "garage_type_desc": "Public Parking and Employee Parking",
+      "updated_at": "2017-06-14T09:01:06.963-0700"
+    },
+    {
+      "garage_uuid": "8b14dc5f-130c-4dbd-b362-a99d45c09ad3",
+      "garage_id": 789,
+      "garage_name": "International Parking G",
+      "garage_type": "public",
+      "garage_type_desc": "Public Parking",
+      "updated_at": "2017-06-13T13:57:02.807-0700"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "garage_uuid": "7e65be9a-e82e-43fd-a981-c883045bfb1d",
+  "garage_id": 123,
+  "free_spaces": 130,
+  "occupied_spaces": 70,
+  "percent_occupied": 35,
+  "status": "Open",
+  "total_spaces": 200,
+  "updated_at": "2017-07-07T21:56:16.768Z",
+  "levels": [
+    {
+      "level": "1",
+      "status": "string",
+      "total_spaces": 0,
+      "free_spaces": 30,
+      "percent_occupied": 0,
+      "occupied_spaces": 0
+    },
+    {
+      "level": "2",
+      "status": "string",
+      "total_spaces": 0,
+      "free_spaces": 45,
+      "percent_occupied": 0,
+      "occupied_spaces": 0
+    }
+  ]
+}

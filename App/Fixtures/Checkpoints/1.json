@@ -1,0 +1,75 @@
+{
+  "checkpoint_uuid": "f9fa7ee6-708c-43db-86dc-8d060dd6b08c",
+  "checkpoint_name": "Checkpoint F3",
+  "open_screening_queues": 6,
+  "current_processing_rate": 948,
+  "updated_at": "2017-08-02T09:44:02.734-0700",
+  "prescreening_queues": [
+    {
+      "prescreening_queue_id": 4,
+      "prescreening_queue_name": "General Queue",
+      "prescreening_queue_length": 108,
+      "last_person_waittime": 402,
+      "estimated_waittime": 448,
+      "total_exit_count": 94348
+    },
+    {
+      "prescreening_queue_id": 7,
+      "prescreening_queue_name": "Known Crew Members",
+      "prescreening_queue_length": 1,
+      "last_person_waittime": 19,
+      "estimated_waittime": 16,
+      "total_exit_count": 10859
+    },
+    {
+      "prescreening_queue_id": 1,
+      "prescreening_queue_name": "Security",
+      "prescreening_queue_length": 101,
+      "last_person_waittime": 326,
+      "estimated_waittime": 400,
+      "total_exit_count": 99451
+    }
+  ],
+  "screening_queues": [
+    {
+      "screening_queue_name": "Lane 1",
+      "is_open": "1",
+      "current_processing_rate": 156,
+      "total_exit_count": 13276,
+      "max_processing_rate": 228,
+      "average_time": 1,
+      "day_pax_count": 692,
+      "day_time_open": 16452
+    },
+    {
+      "screening_queue_name": "Lane 2",
+      "is_open": "1",
+      "current_processing_rate": 72,
+      "total_exit_count": 7573,
+      "max_processing_rate": 372,
+      "average_time": 0,
+      "day_pax_count": 493,
+      "day_time_open": 10014
+    },
+    {
+      "screening_queue_name": "Lane 3",
+      "is_open": "0",
+      "current_processing_rate": 0,
+      "total_exit_count": 2931,
+      "max_processing_rate": 360,
+      "average_time": 0,
+      "day_pax_count": 80,
+      "day_time_open": 1272
+    },
+    {
+      "screening_queue_name": "Lane 4",
+      "is_open": "0",
+      "current_processing_rate": 0,
+      "total_exit_count": 2958,
+      "max_processing_rate": 360,
+      "average_time": 0,
+      "day_pax_count": 181,
+      "day_time_open": 2988
+    }
+  ]
+}

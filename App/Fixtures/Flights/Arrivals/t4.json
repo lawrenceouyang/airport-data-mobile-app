@@ -1,0 +1,59 @@
+{
+  "response": {
+    "flights": [
+      {
+        "act_time": "6:19 PM",
+        "baggage_claim": 7,
+        "base_airline_name": "Air France",
+        "base_flight": "AF82",
+        "est_time": "6:19 PM",
+        "flight_type": "A",
+        "sched_time": "6:00 PM",
+        "sub_flights": {
+          "sub_airline_name": "Delta",
+          "sub_flight": "DL8403"
+        },
+        "terminal_id": 4,
+        "visited_cities": "CDG"
+      },
+      {
+        "act_time": "3:47 PM",
+        "baggage_claim": 12,
+        "base_airline_name": "JetBlue",
+        "base_flight": "B6736",
+        "est_time": "3:47 PM",
+        "flight_type": "A",
+        "gate": "A12",
+        "sched_time": "3:01 PM",
+        "sub_flights": {
+          "sub_airline_name": "Emirates",
+          "sub_flight": "EK6048"
+        },
+        "terminal_id": 4,
+        "visited_cities": "LGB"
+      },
+      {
+        "act_time": "8:32 PM",
+        "baggage_claim": 4,
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA1118",
+        "est_time": "8:32 PM",
+        "flight_type": "A",
+        "gate": "G92",
+        "sched_time": "8:55 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Air China",
+            "sub_flight": "CA7324"
+          },
+          {
+            "sub_airline_name": "Air New Zealand",
+            "sub_flight": "NZ9292"
+          }
+        ],
+        "terminal_id": 4,
+        "visited_cities": "CUN"
+      }
+    ]
+  }
+}

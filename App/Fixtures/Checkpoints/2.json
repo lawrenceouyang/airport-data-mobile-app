@@ -1,0 +1,123 @@
+{
+  "checkpoint_uuid": "11afda6e-95f7-4956-8376-a8758f12bf08",
+  "checkpoint_name": "Checkpoint F1",
+  "open_screening_queues": 6,
+  "current_processing_rate": 948,
+  "updated_at": "2017-08-02T09:44:02.734-0700",
+  "prescreening_queues": [
+    {
+      "prescreening_queue_id": 4,
+      "prescreening_queue_name": "General Queue",
+      "prescreening_queue_length": 108,
+      "last_person_waittime": 402,
+      "estimated_waittime": 448,
+      "total_exit_count": 94348
+    },
+    {
+      "prescreening_queue_id": 7,
+      "prescreening_queue_name": "Known Crew Members",
+      "prescreening_queue_length": 1,
+      "last_person_waittime": 19,
+      "estimated_waittime": 16,
+      "total_exit_count": 10859
+    },
+    {
+      "prescreening_queue_id": 2,
+      "prescreening_queue_name": "Pre-Check Queue",
+      "prescreening_queue_length": 11,
+      "last_person_waittime": 107,
+      "estimated_waittime": 61,
+      "total_exit_count": 55700
+    },
+    {
+      "prescreening_queue_id": 1,
+      "prescreening_queue_name": "Security",
+      "prescreening_queue_length": 101,
+      "last_person_waittime": 326,
+      "estimated_waittime": 400,
+      "total_exit_count": 99451
+    }
+  ],
+  "screening_queues": [
+    {
+      "screening_queue_name": "Lane 1",
+      "is_open": "1",
+      "current_processing_rate": 156,
+      "total_exit_count": 13276,
+      "max_processing_rate": 228,
+      "average_time": 1,
+      "day_pax_count": 692,
+      "day_time_open": 16452
+    },
+    {
+      "screening_queue_name": "Lane 2",
+      "is_open": "1",
+      "current_processing_rate": 72,
+      "total_exit_count": 7573,
+      "max_processing_rate": 372,
+      "average_time": 0,
+      "day_pax_count": 493,
+      "day_time_open": 10014
+    },
+    {
+      "screening_queue_name": "Lane 3",
+      "is_open": "0",
+      "current_processing_rate": 0,
+      "total_exit_count": 2931,
+      "max_processing_rate": 360,
+      "average_time": 0,
+      "day_pax_count": 80,
+      "day_time_open": 1272
+    },
+    {
+      "screening_queue_name": "Lane 4",
+      "is_open": "0",
+      "current_processing_rate": 0,
+      "total_exit_count": 2958,
+      "max_processing_rate": 360,
+      "average_time": 0,
+      "day_pax_count": 181,
+      "day_time_open": 2988
+    },
+    {
+      "screening_queue_name": "Lane 5",
+      "is_open": "1",
+      "current_processing_rate": 180,
+      "total_exit_count": 20095,
+      "max_processing_rate": 240,
+      "average_time": 3,
+      "day_pax_count": 938,
+      "day_time_open": 21596
+    },
+    {
+      "screening_queue_name": "Lane 6",
+      "is_open": "1",
+      "current_processing_rate": 240,
+      "total_exit_count": 29598,
+      "max_processing_rate": 300,
+      "average_time": 9,
+      "day_pax_count": 1281,
+      "day_time_open": 22196
+    },
+    {
+      "screening_queue_name": "Lane 7",
+      "is_open": "1",
+      "current_processing_rate": 144,
+      "total_exit_count": 13105,
+      "max_processing_rate": 276,
+      "average_time": 29,
+      "day_pax_count": 577,
+      "day_time_open": 20546
+    },
+    {
+      "screening_queue_name": "Lane 8",
+      "is_open": "1",
+      "current_processing_rate": 156,
+      "total_exit_count": 20692,
+      "max_processing_rate": 324,
+      "average_time": 8,
+      "day_pax_count": 706,
+      "day_time_open": 12574
+    }
+  ]
+}

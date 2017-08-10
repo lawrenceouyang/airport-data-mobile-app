@@ -1,0 +1,84 @@
+{
+  "response": {
+    "flights": [
+      {
+        "act_time": "9:26 PM",
+        "baggage_claim": 2,
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA1217",
+        "est_time": "9:26 PM",
+        "flight_type": "A",
+        "gate": 63,
+        "sched_time": "9:26 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Avianca",
+            "sub_flight": "AV2125"
+          },
+          {
+            "sub_airline_name": "Copa Airlines",
+            "sub_flight": "CM2414"
+          },
+          {
+            "sub_airline_name": "Air New Zealand",
+            "sub_flight": "NZ9357"
+          }
+        ],
+        "terminal_id": 3,
+        "visited_cities": "PDX"
+      },
+      {
+        "act_time": "8:30 PM",
+        "baggage_claim": 4,
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA5811",
+        "est_time": "8:30 PM",
+        "flight_type": "A",
+        "gate": "84B",
+        "sched_time": "8:30 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Avianca",
+            "sub_flight": "AV2267"
+          },
+          {
+            "sub_airline_name": "Copa Airlines",
+            "sub_flight": "CM2422"
+          }
+        ],
+        "terminal_id": 3,
+        "visited_cities": "MFR"
+      },
+      {
+        "act_time": "6:14 PM",
+        "baggage_claim": 4,
+        "base_airline_name": "United Airlines",
+        "base_flight": "UA5395",
+        "est_time": "6:14 PM",
+        "flight_type": "A",
+        "gate": "84B",
+        "sched_time": "6:14 PM",
+        "sub_flights": [
+          {
+            "sub_airline_name": "Air Canada",
+            "sub_flight": "AC4339"
+          },
+          {
+            "sub_airline_name": "Avianca",
+            "sub_flight": "AV2035"
+          },
+          {
+            "sub_airline_name": "Copa Airlines",
+            "sub_flight": "CM2445"
+          },
+          {
+            "sub_airline_name": "Lufthansa",
+            "sub_flight": "LH9047"
+          }
+        ],
+        "terminal_id": 3,
+        "visited_cities": "FAT"
+      }
+    ]
+  }
+}

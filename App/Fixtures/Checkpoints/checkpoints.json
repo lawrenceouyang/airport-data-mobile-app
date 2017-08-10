@@ -1,0 +1,22 @@
+{
+  "checkpoints": [
+    {
+      "checkpoint_uuid": "11afda6e-95f7-4956-8376-a8758f12bf08",
+      "checkpoint_name": "Checkpoint F1",
+      "checkpoint_code": "Sec_F1",
+      "checkpoint_hours": "4:00 a.m. to 12:30 a.m.",
+      "checkpoint_gates": "60-90 and G91-G102",
+      "terminal_id": 3,
+      "updated_at": "2017-07-10T08:39:33.090-0700"
+    },
+    {
+      "checkpoint_uuid": "f9fa7ee6-708c-43db-86dc-8d060dd6b08c",
+      "checkpoint_name": "Checkpoint F3",
+      "checkpoint_code": "Sec_F3",
+      "checkpoint_hours": "4:00 a.m. to 12:30 a.m.",
+      "checkpoint_gates": "50-59",
+      "terminal_id": 2,
+      "updated_at": "2017-07-10T08:39:33.090-0700"
+    }
+  ]
+}
